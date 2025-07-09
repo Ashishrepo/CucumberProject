@@ -1,0 +1,3 @@
+2025-07-09 09:38:48 INFO  DemoWebShopStepDef:63 - ********* Launch Demo Web shop**************
+2025-07-09 09:38:51 INFO  DemoWebShopStepDef:73 - ****************** Login Demo Web Shop********************888
+2025-07-09 09:38:51 INFO  DemoWebShopStepDef:80 - ****************** Demo Web Shop Home Page ********************888
